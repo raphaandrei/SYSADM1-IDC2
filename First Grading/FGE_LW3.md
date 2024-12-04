@@ -1,16 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 523e2524996f4a4b9ceed9db05723886 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME:                            | DATE PERFORMED:        |          |
-+----------------------------------+------------------------+----------+
-| Section:                         | DATE SUBMITTED:        |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/8a3abf50-e8d7-426b-a155-d660ea4de725)
+
 
 # SYSADM1 -- Managing Services in Windows
 
