@@ -23,9 +23,8 @@
 3.  Right-click on a service and select \"Start\", \"Stop\", or
     \"Restart\". Fill out the table below
 
-  -----------------------------------------------------------------------
-  **Status**   **Name of Service**                **Screenshot**
-  ------------ ---------------------------------- -----------------------
+![image](https://github.com/user-attachments/assets/90efadba-e841-41d1-8df5-08b15c55116c)
+
   Start                                           
 
                                                   
