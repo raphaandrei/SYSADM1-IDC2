@@ -16,7 +16,7 @@
 1. Configure and establish a virtual handshake and a working DNS
 
   ![Uploading image.png…]()
-)
+
 
 1. Create a policy *password* to disable the password requirements set by Server 2019. 
 1. Change the passwords of the users to 1 and restrict them from changing the password on their succeeding log in sessions. 
