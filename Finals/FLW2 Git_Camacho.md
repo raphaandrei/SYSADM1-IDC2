@@ -1,8 +1,6 @@
 ﻿
-<table><tr><th colspan="3" valign="bottom"><p>![](Aspose.Words.8e722884-efac-4268-9fd9-31a43732f92b.001.png)</p><p></p><p>SCHOOL OF INFORMATION AND TECHNOLOGY</p></th></tr>
-<tr><td colspan="1" valign="bottom">NAME: Rapha Andrei A. Camacho</td><td colspan="1" valign="bottom">DATE PERFORMED: 11/21/2024</td><td colspan="1" rowspan="2" valign="bottom"> </td></tr>
-<tr><td colspan="1" valign="bottom">Section: IDC2</td><td colspan="1" valign="bottom">DATE SUBMITTED: 11/21/2024</td></tr>
-</table>
+![image](https://github.com/user-attachments/assets/a38c211b-3d97-4551-ba5f-985487b19123)
+
 # SYSADM1 – Git Basics
 Answer the following research questions about Git, GitLab desktop and GitHub.
 
