@@ -1,7 +1,5 @@
-﻿<table><tr><th colspan="3" valign="bottom"><p>![](Aspose.Words.5c6f6c40-0180-410f-a302-a0bb074da0ae.001.png)</p><p></p><p>SCHOOL OF INFORMATION AND TECHNOLOGY</p></th></tr>
-<tr><td colspan="1" valign="bottom">NAME: Rapha Andrei A. Camacho</td><td colspan="1" valign="bottom">DATE PERFORMED: 11/21/2024</td><td colspan="1" rowspan="2" valign="bottom"> </td></tr>
-<tr><td colspan="1" valign="bottom">Section: IDC2</td><td colspan="1" valign="bottom">DATE SUBMITTED: 11/21/2024</td></tr>
-</table>
+![image](https://github.com/user-attachments/assets/61407dad-a566-4597-bfd0-efe5da00fe89)
+
 **WINDOWS ADMINISTRATIVE TOOLS**
 
 Read the case study presented below and answer the questions after reading the case study.
