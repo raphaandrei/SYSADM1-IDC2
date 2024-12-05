@@ -11,16 +11,12 @@
 1. Configure server-client setup following installation defaults required and post installation tasks
 1. Fill out the IP table below
 
-   |**Computer**|**IP Address**|**Subnet Mask**|**Default Gateway**|
-   | :- | :- | :- | :- |
-   |**Server**|**192.168.43.2**|**255.255.255.0**|**192.168.43.1**|
-   |**Client**|**192.168.43.3**|**255.255.255.0**|**192.168.43.1**|
+  ![image](https://github.com/user-attachments/assets/7460e424-6043-4a1f-8388-310d0076a07b)
 
 1. Configure and establish a virtual handshake and a working DNS
 
-   ![](Aspose.Words.d448a01d-4197-4fa6-a2f2-e454b3068bf8.001.png)
-
-   ![](Aspose.Words.d448a01d-4197-4fa6-a2f2-e454b3068bf8.002.png)
+  ![Uploading image.png…]()
+)
 
 1. Create a policy *password* to disable the password requirements set by Server 2019. 
 1. Change the passwords of the users to 1 and restrict them from changing the password on their succeeding log in sessions. 
