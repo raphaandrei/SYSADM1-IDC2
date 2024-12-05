@@ -1,8 +1,6 @@
 ﻿
-<table><tr><th colspan="3" valign="bottom"><p>![](Aspose.Words.dbfa4ed8-25e5-4f88-9449-c0ade22055e3.001.png)</p><p></p><p>SCHOOL OF INFORMATION AND TECHNOLOGY</p></th></tr>
-<tr><td colspan="1" valign="bottom">NAME: Rapha Andrei A. Camacho</td><td colspan="1" valign="bottom">DATE PERFORMED: 08/29/2024</td><td colspan="1" rowspan="2" valign="bottom"> </td></tr>
-<tr><td colspan="1" valign="bottom">Section: IDC2</td><td colspan="1" valign="bottom">DATE SUBMITTED: 08/29/2024</td></tr>
-</table>
+![image](https://github.com/user-attachments/assets/b43d2ed3-fafa-4452-9970-6c6c3cecb317)
+
 
 # SYSADM1 – Managing Services in Windows
 # Requirement: 
