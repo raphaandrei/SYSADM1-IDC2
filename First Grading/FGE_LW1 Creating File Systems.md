@@ -84,25 +84,13 @@ Part B. Create a log report structure
 
 **5. Attachments:**
 
-`	`**![](Aspose.Words.170fdf40-9d91-4276-a8f8-e64fa171ad34.002.png)![](Aspose.Words.170fdf40-9d91-4276-a8f8-e64fa171ad34.003.png)**
+![image](https://github.com/user-attachments/assets/dc9db413-5e13-4d85-b21f-d0ca7497becd)
+![image](https://github.com/user-attachments/assets/c7b140fb-4623-4c91-a2f0-44528111d4cb)
+![image](https://github.com/user-attachments/assets/97fad443-405b-47d1-b612-eb3beec2a2d4)
+![image](https://github.com/user-attachments/assets/539850ec-13ea-41d2-81a7-95ed427e5340)
 
-![](Aspose.Words.170fdf40-9d91-4276-a8f8-e64fa171ad34.004.png)
 
-![](Aspose.Words.170fdf40-9d91-4276-a8f8-e64fa171ad34.005.png)
 
-![](Aspose.Words.170fdf40-9d91-4276-a8f8-e64fa171ad34.006.png)
-
-![](Aspose.Words.170fdf40-9d91-4276-a8f8-e64fa171ad34.007.png)
-
-![](Aspose.Words.170fdf40-9d91-4276-a8f8-e64fa171ad34.008.png)
-
-![](Aspose.Words.170fdf40-9d91-4276-a8f8-e64fa171ad34.009.png)
-
-![](Aspose.Words.170fdf40-9d91-4276-a8f8-e64fa171ad34.010.png)
-
-![](Aspose.Words.170fdf40-9d91-4276-a8f8-e64fa171ad34.011.png)
-
-![](Aspose.Words.170fdf40-9d91-4276-a8f8-e64fa171ad34.012.png)
 
 **6. Backup:**
 
