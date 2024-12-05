@@ -1,8 +1,6 @@
 ﻿
-<table><tr><th colspan="3" valign="bottom"><p>![](Aspose.Words.170fdf40-9d91-4276-a8f8-e64fa171ad34.001.png)</p><p></p><p>SCHOOL OF INFORMATION AND TECHNOLOGY</p></th></tr>
-<tr><td colspan="1" valign="bottom">NAME: Rapha Andrei A. Camacho</td><td colspan="1" valign="bottom">DATE PERFORMED: 08/22/2024</td><td colspan="1" rowspan="2" valign="bottom">40/50 </td></tr>
-<tr><td colspan="1" valign="bottom">Section: IDC2</td><td colspan="1" valign="bottom">DATE SUBMITTED: 08/22/2024</td></tr>
-</table>
+![image](https://github.com/user-attachments/assets/5cce3beb-0acc-4ad6-a36d-a29d3037d004)
+
 
 # SYSADM1 – Introduction to File Systems in Windows and Linux
 # Requirement: 
