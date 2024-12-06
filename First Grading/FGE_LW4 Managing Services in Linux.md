@@ -1,12 +1,11 @@
-﻿<table><tr><th colspan="3" valign="bottom"><p>![](Aspose.Words.bb73d1da-55a6-4288-9b6a-1f67488d47f4.001.png)</p><p></p><p>SCHOOL OF INFORMATION AND TECHNOLOGY</p></th></tr>
-<tr><td colspan="1" valign="bottom">NAME: Rapha Andrei A. Camacho</td><td colspan="1" valign="bottom">DATE PERFORMED: 09/12/2024</td><td colspan="1" rowspan="2" valign="bottom"></td></tr>
-<tr><td colspan="1" valign="bottom">Section: IDC2</td><td colspan="1" valign="bottom">DATE SUBMITTED: 09/12/2024</td></tr>
-</table>
+﻿![image](https://github.com/user-attachments/assets/266bd603-027c-4d31-8d03-a92c468b79c2)
+
 # SYSADM1 – Managing Services in Linux
 # Requirement: 
 - A virtual machine running Linux 
 
-![](Aspose.Words.bb73d1da-55a6-4288-9b6a-1f67488d47f4.002.png)
+![image](https://github.com/user-attachments/assets/d48bc9dc-661e-430b-a0b0-fc2844de6b99)
+
 
 Complete this lab as follows: 
 
@@ -14,21 +13,18 @@ Complete this lab as follows:
 
   List down active and inactive services in the table below. Provide five (5) services for each column.
 
-|**Active**|**Inactive**|
-| :-: | :-: |
-|alsa-utils|anacron|
-|apparmor|bluetooth|
-|apport|console-setup.sh|
-|cron|grub-common|
-|cups|keyboard-setup.sh|
+![image](https://github.com/user-attachments/assets/1779c2b0-a7b4-430d-9e4a-4fbca22deaf7)
 
-SS: ![](Aspose.Words.bb73d1da-55a6-4288-9b6a-1f67488d47f4.003.png)sud
+
+SS: ![image](https://github.com/user-attachments/assets/e5a53ff2-3290-41aa-aae6-4f6b22dbd133)
+
 
 - Start the Bluetooth service using the systemctl command. 
 
   Ex. sudo systemctl start httpd
 
-  ![](Aspose.Words.bb73d1da-55a6-4288-9b6a-1f67488d47f4.004.png)
+  ![image](https://github.com/user-attachments/assets/8308b060-7208-469d-8412-bb2a457bd2d0)
+
 
 
 
@@ -38,11 +34,13 @@ SS: ![](Aspose.Words.bb73d1da-55a6-4288-9b6a-1f67488d47f4.003.png)sud
 
 - Check the status of the Bluetooth service. What is its status? Bluetooth is still inactive(dead)
 
-  SS: ![](Aspose.Words.bb73d1da-55a6-4288-9b6a-1f67488d47f4.005.png)
+  SS: ![image](https://github.com/user-attachments/assets/2813f3a8-d410-4cd0-a250-ade34a930e28)
+
 
 - Check the status of the cups services. Since when was it running?
 
-  SS: ![](Aspose.Words.bb73d1da-55a6-4288-9b6a-1f67488d47f4.006.png)
+  SS: ![image](https://github.com/user-attachments/assets/877e320c-daca-4d0b-81a3-d21012e46623)
+
 
 
 
@@ -51,10 +49,12 @@ SS: ![](Aspose.Words.bb73d1da-55a6-4288-9b6a-1f67488d47f4.003.png)sud
 - Stop cups services.
 - Verify if the service was stopped. 
 
-  ![](Aspose.Words.bb73d1da-55a6-4288-9b6a-1f67488d47f4.007.png)
+  ![image](https://github.com/user-attachments/assets/e0cb1eb2-ea99-4fbf-98e7-d2ca9cf36518)
+
 
 - Restart the cups services
 - Verify if the service was restarted. 
 
-  ![](Aspose.Words.bb73d1da-55a6-4288-9b6a-1f67488d47f4.008.png)
+  ![image](https://github.com/user-attachments/assets/e6545fef-0217-4083-a08d-fda4f4a94dae)
+
 `	`Page 2** of 3**	
