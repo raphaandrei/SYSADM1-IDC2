@@ -40,11 +40,13 @@
 |Course Reflection|||
 
 
-**<insert your scanned activities here include title>**
+**Picture of Activities**
 
-**Quiz 1:**
+**First Grading**
 
+**Midterms**
 
+**Finals**
 
 **Course Reflection**
 
