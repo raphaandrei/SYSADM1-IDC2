@@ -1,8 +1,6 @@
 ﻿
-<table><tr><th colspan="3" valign="bottom"><p>![](Aspose.Words.7f647d8c-bb01-4884-9110-d81615b14fc8.001.png)</p><p></p><p>SCHOOL OF INFORMATION TECHNOLOGY</p></th></tr>
-<tr><td colspan="2" valign="bottom">NAME: Rapha Andrei A. Camacho</td><td colspan="1" rowspan="1" valign="bottom"> </td></tr>
-<tr><td colspan="1" valign="bottom">SECTION: IDC2</td><td colspan="1" valign="bottom">DATE SUBMITTED: 12/08/2024</td></tr>
-</table>
+![image](https://github.com/user-attachments/assets/c027dcce-bc0d-40c7-abfa-a699cdef0f0c)
+
 # **SYSADM1 PORTFOLIO**
 
 <a name="_gjdgxs"></a>**Table of Contents**
@@ -35,7 +33,7 @@
 |Quiz 2|||
 |Quiz 3|||
 |Other Activities|||
-|Capacity Management & Planning||3|
+|Capacity Management & Planning|11/28/2024|3|
 |<Name of Activity/Exercise/Library Research/Etc>|||
 |<Name of Activity/Exercise/Library Research/Etc>|||
 |Final Exam|||
