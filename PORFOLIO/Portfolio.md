@@ -13,7 +13,7 @@
 |Quiz 2||3|
 |Quiz 3|||
 |Other Activities|||
-|Organizational Policies||1|
+|Organizational Policies|08/22/2024|1|
 |Evolution of Systems Administration||2|
 |<Name of Activity/Exercise/Library Research/Etc>|||
 |First Grading Exam|||
@@ -41,15 +41,20 @@
 
 
 **Picture of Activities**
-
 **First Grading**
+**Organizational Policies:**
+![image](https://github.com/user-attachments/assets/9ceb79f9-928b-4670-80f6-c6527585d503)
+
 
 **Midterms**
 
+
 **Finals**
+**Capacity Management & Planning:**
+![image](https://github.com/user-attachments/assets/d2048ce0-bb43-48ae-8a98-7aca538184b6)
+
 
 **Course Reflection**
-
 What were your initial expectations for the course? Did the course meet, exceed, or fall short of these expectations?
 
 ||
@@ -84,4 +89,4 @@ How do you plan to apply what you have learned in this course to your future stu
 | :- |
 
 
-`		`Page 2** of 3**
+
