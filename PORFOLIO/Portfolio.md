@@ -43,6 +43,7 @@
 **Picture of Activities**
 **First Grading**
 **Organizational Policies:**
+
 ![image](https://github.com/user-attachments/assets/9ceb79f9-928b-4670-80f6-c6527585d503)
 
 
@@ -51,6 +52,7 @@
 
 **Finals**
 **Capacity Management & Planning:**
+
 ![image](https://github.com/user-attachments/assets/d2048ce0-bb43-48ae-8a98-7aca538184b6)
 
 
