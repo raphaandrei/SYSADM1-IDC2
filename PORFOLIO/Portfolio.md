@@ -9,33 +9,26 @@
 | :- | :- | :- |
 |**First Grading**|||
 |Quizzes|||
-|Quiz 1||1|
-|Quiz 2||3|
-|Quiz 3|||
+|Quiz 1|09/12/2024|1|
 |Other Activities|||
+|Evolution of Systems Administration|08/15/2024|2|
 |Organizational Policies|08/22/2024|1|
-|Evolution of Systems Administration||2|
-|<Name of Activity/Exercise/Library Research/Etc>|||
-|First Grading Exam|||
+|Managing Services in Windows|08/29/2024|9|
+|First Grading Exam|09/19/2024|5|
 |**Midterms**|||
 |Quizzes|||
 |Quiz 1|||
-|Quiz 2|||
-|Quiz 3|||
 |Other Activities|||
-|Midterms\_Research 1||1|
-|<Name of Activity/Exercise/Library Research/Etc>|||
-|<Name of Activity/Exercise/Library Research/Etc>|||
+|EULA|10/08/2024|2|
+|Research 1|10/10/2024|1|
+|Load Balancer|10/15/2024|1|
 |Midterm Exam|||
 |**Finals**|||
 |Quizzes|||
-|Quiz 1|||
-|Quiz 2|||
-|Quiz 3|||
+|Quiz 1|11/21/2024|4|
 |Other Activities|||
 |Capacity Management & Planning|11/28/2024|3|
-|<Name of Activity/Exercise/Library Research/Etc>|||
-|<Name of Activity/Exercise/Library Research/Etc>|||
+|FLW2_Git|11/21/2024|2|
 |Final Exam|||
 |Course Reflection|||
 
@@ -44,19 +37,60 @@
 
 **First Grading**
 
+**Quiz 1:**
+
+![image](https://github.com/user-attachments/assets/e49e147c-d126-4151-beba-5b0ff8b492eb)
+
+
+**Evolution of Systems Administration:**
+
+![image](https://github.com/user-attachments/assets/595449f2-57ec-4a7c-b053-2fb80d532a12)
+
+
 **Organizational Policies:**
 
 ![image](https://github.com/user-attachments/assets/9ceb79f9-928b-4670-80f6-c6527585d503)
 
+**Managing Services in Windows:**
+
+![image](https://github.com/user-attachments/assets/20cbd14b-9622-4e29-aa25-69af98d186eb)
+
+**First Grading Exam:**
+
+![image](https://github.com/user-attachments/assets/597ae04b-8c0d-4a81-8027-f876c9ffa65e)
+
 
 **Midterms**
+
+**EULA:**
+
+![image](https://github.com/user-attachments/assets/7fc632f9-908b-40c3-9bfa-31c21a5a678d)
+
+
+**Research 1:**
+
+![image](https://github.com/user-attachments/assets/8b71528d-ccc3-4aa9-a40d-c42b9d0ea3f6)
+
+
+**Load Balancer:**
+
+![image](https://github.com/user-attachments/assets/aa9a3338-acd4-463f-8d19-3e345b5ae852)
 
 
 **Finals**
 
+**Quiz 1:**
+
+![image](https://github.com/user-attachments/assets/aeaf0947-032b-4c55-9f17-5ca1ed5618c7)
+
+
 **Capacity Management & Planning:**
 
 ![image](https://github.com/user-attachments/assets/d2048ce0-bb43-48ae-8a98-7aca538184b6)
+
+**FLW2_Git:**
+
+![image](https://github.com/user-attachments/assets/f7850b01-a2d4-451c-a0c5-0ee29c4588af)
 
 
 **Course Reflection**
